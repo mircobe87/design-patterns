@@ -1,4 +1,4 @@
-package pattern.creationl.builder;
+package pattern.creational.builder;
 
 /**
  * Example of a complex bean class where its creation is managed by a builder.
